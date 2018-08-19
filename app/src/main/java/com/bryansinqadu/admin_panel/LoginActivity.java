@@ -51,7 +51,7 @@ public class LoginActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if (Check()) {
                     validate(etEmail.getText().toString(), etPassword.getText().toString());
-                    startActivity(new Intent(LoginActivity.this,HomeActivity.class));
+
                 }else{
                     Toast.makeText(LoginActivity.this, "Login Failed", Toast.LENGTH_SHORT).show();
                 }
@@ -85,6 +85,7 @@ public class LoginActivity extends AppCompatActivity {
             public void onComplete(@NonNull Task<AuthResult> task) {
                 if (task.isSuccessful()) {
                     progressDialog.dismiss();
+                    startActivity(new Intent(LoginActivity.this,HomeActivity.class));
 
                 }
             }
