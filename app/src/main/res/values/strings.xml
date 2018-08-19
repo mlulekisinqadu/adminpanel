@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">admin-panel</string>
+    <string name="username_hint"><font size="12">Email</font></string>
+    <string name="password_hint"><font size="12">Password</font></string>
+    <string name="login"><font size="15">Log In</font></string>
+    <string name="fullname"><font size="12">Full Name</font></string>
+    <string name="email_hint"><font size="12">Email</font></string>
+    <string name="pass_hint"><font size="12">Password</font></string>
+    <string name="phone_hint"><font size="12">Phone</font></string>
+    <string name="gender"><font size="12">Gender</font></string>
+    <string name="register"><font size="15">Sign Up</font></string>
+
+    <string name="signup_title"><textAlignment align="center">Sign Up</textAlignment> </string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="copyrighted_content">© Copyrighted content</string>
+
+    <string name="gallery">Gallery</string>
+    <string name="location">Location</string>
+    <string name="my_bookings">Bookings</string>
+    <string name="departments">Departments</string>
+    <string name="home">Home</string>
+    <string name="calender">Calender</string>
+    <string name="chat">Chat</string>
+    <string name="settings">Settings</string>
+    <string name="customer_help">Customer Help</string>
+    <string name="logout">Logout</string>
+    <string name="exit">Exit</string>
+    <string name="slots">Slots</string>
+    <string name="staff">Staff</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="pending">Pending</string>
+    <string name="status">Status</string>
+    <string name="bookingid">BookingId:</string>
+    <string name="department">Department</string>
+    <string name="email">Email:</string>
+    <string name="slot">Slot:</string>
+    <string name="slot_5">Slot 5</string>
+    <string name="date">Date</string>
+    <string name="_27_july">27 July</string>
+    <string name="_computer_science">Computer Science</string>
+    <string name="sino_gmail_com">sino@gmail.com</string>
+    <string name="action">Action</string>
+    <string name="_2151dsfssd">#2151dsfssd</string>
+    <string name="_sinoyolo_wopula">Sinoyolo Wopula</string>
+    <string name="name_user">Name</string>
+    <string name="email_user">Email</string>
+    <string name="phone_user">Phone</string>
+
+    <!--Bookings Activity-->
+    <string name="bookingemail">Email: </string>
+    <string name="booking_action">Action</string>
+    <string name="bookingdepartment">Department: </string>
+    <string name="bookingslotno">Slot No: </string>
+    <string name="sinoyolo_wopula">Sinoyolo Wopula</string>
+    <string name="bookingdate">Date</string>
+    <string name="bookingiid">BookingId: </string>
+    <string name="_124hdvgd56">124hdvgd56</string>
+    <string name="sinoyolo_gmail_com">sinoyolo@gmail.com</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="bookingslot_1">Slot 1</string>
+    <string name="_10_08_2018">10/08/2018</string>
+    <string name="_10_00">10:00</string>
+
+    <!--Update Status-->
+    <string name="update_status_text">Status</string>
+    <string name="update_status_button">Update Status</string>
+
+
+</resources>

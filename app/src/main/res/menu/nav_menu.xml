@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:id="@+id/navHome"
+    android:icon="@drawable/account_circle"
+    android:title="@string/home"/>
+
+   <item
+        android:id="@+id/navBooking"
+        android:icon="@drawable/booking"
+        android:title="@string/my_bookings"/>
+
+    <item android:id="@+id/navDepartments"
+        android:icon="@drawable/department"
+        android:title="@string/departments"/>
+
+    <item
+        android:id="@+id/navSlots"
+        android:icon="@drawable/slots"
+        android:title="@string/slots"/>
+
+
+    <item android:id="@+id/navStaff"
+        android:icon="@drawable/staff"
+        android:title="@string/staff"/>
+
+    <item android:id="@+id/navMap"
+        android:icon="@drawable/map"
+        android:title="@string/location"/>
+
+    <item android:title="@string/gallery"
+        android:icon="@drawable/gallery"
+        android:id="@+id/navGallery"/>
+
+    <item android:id="@+id/navCalendar"
+        android:icon="@drawable/calendar"
+        android:title="@string/calender" />
+
+    <item
+        android:id="@+id/navChat"
+        android:icon="@drawable/chat"
+        android:title="@string/chat"/>
+
+    <item
+        android:id="@+id/navSettings"
+        android:icon="@drawable/settings"
+        android:title="@string/settings"/>
+
+    <item android:id="@+id/navHelp"
+        android:icon="@drawable/help"
+        android:title="@string/customer_help"/>
+
+    <item
+        android:id="@+id/navLogout"
+        android:icon="@drawable/signout"
+        android:title="@string/logout"/>
+
+
+    <item
+        android:id="@+id/navExit"
+        android:icon="@drawable/logout"
+        android:title="@string/exit"/>
+
+
+</menu>
